@@ -10,6 +10,9 @@
     "type": "git",
     "url": "Cat-meme-Generator"
   },
+  "publishConfig": {
+    "@praball:registry": "https://npm.pkg.github.com"
+  },
   "author": "Prabal Pophaley",
   "license": "ISC"
 }
