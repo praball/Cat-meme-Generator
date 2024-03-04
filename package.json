@@ -1,0 +1,15 @@
+{
+  "name": "cat-meme-generator",
+  "version": "1.0.0",
+  "description": "Cat meme generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Cat-meme-Generator"
+  },
+  "author": "Prabal Pophaley",
+  "license": "ISC"
+}
